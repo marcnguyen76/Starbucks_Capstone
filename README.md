@@ -87,6 +87,7 @@ Overall, both Bogo and Discount promotion have about the same number of completi
 There is no visible correlations between the success of the promotion and difficulty, duration, or reward
  
 Recommendations:
+
 The two target groups are females and upper income groups. They spend more per visit but they visit less than the other groups. If we could get them to visit more, the revenues will increase.
 The largest customer group are middle income males, but they send less per visit. Suggest finding ways to increase spending per visit for this group.
 Because there is no correlations between Income, Age, and Member Length, it is recommended not to target a particular customer profile
